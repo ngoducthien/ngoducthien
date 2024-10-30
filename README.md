@@ -1,7 +1,7 @@
 # Hi there! I'm Thien.
 
 ### About Me
-I hold a PhD in condensed matter physics and am currently engaged in materials science research at a leading institution for materials science. My work focuses on the intersection of materials science and artificial intelligence, and I'm deeply interested in leveraging high-tech advancements to drive innovation in these fields. 
+I hold a PhD in condensed matter physics and am currently engaged in materials science research at a leading institution for materials science. My work focuses on the intersection of materials science, optical nanodevices and artificial intelligence, and I'm deeply interested in leveraging high-tech advancements to drive innovation in these fields. 
 
 A lover of coding, I’m always exploring new technologies and techniques to enhance research efficiency and analysis. 
 

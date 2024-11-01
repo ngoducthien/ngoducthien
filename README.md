@@ -5,7 +5,7 @@ I hold a PhD in condensed matter physics and am currently engaged in materials s
 
 A lover of coding, I’m always exploring new technologies and techniques to enhance research efficiency and analysis. 
 
-These repositories showcase a selection of public scripts and programs I've developed for my research. Feel free to explore, and let’s connect to discuss innovative opportunities in the field.
+These repositories showcase a selection of public scripts and programs I've developed for my work. Feel free to explore, and let’s connect to discuss innovative opportunities in the field.
 
 <!--
 **ngoducthien/ngoducthien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

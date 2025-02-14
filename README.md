@@ -1,9 +1,7 @@
 # Hi there! I'm Thien.
 
 ### About Me
-I hold a PhD in condensed matter physics and am currently engaged in materials science research at a leading institution for materials science. My work focuses on the intersection of materials science, optical nanodevices and artificial intelligence, and I'm deeply interested in leveraging high-tech advancements to drive innovation in these fields. 
-
-A lover of coding, I’m always exploring new technologies and techniques to enhance research efficiency and analysis. 
+Materials researcher with a PhD in condensed matter physics and expertise in nanostructure design, materials informatics, and computational materials discovery. Skilled in programming and data-driven materials research, with experience applying AI techniques for materials innovation. Passionate about leveraging computational methods to accelerate R&D in a practical environment. A lover of coding, I’m always exploring new technologies and techniques to enhance research efficiency. 
 
 These repositories showcase a selection of public scripts and programs I've developed for my work. Feel free to explore, and let’s connect to discuss innovative opportunities in the field.
 
